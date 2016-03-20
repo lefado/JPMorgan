@@ -25,6 +25,7 @@ public class UI_Step2 extends javax.swing.JFrame {
     public UI_Step2(JFrame window) {
         initComponents();
         main = window;
+        main = window;
         main.setVisible(false);
         this.setVisible(true);
         this.setResizable(false);
